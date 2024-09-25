@@ -11,3 +11,7 @@ Github username: BoruiCai
  In this course, I hope to learn more about Python-related tools.
 
 #  Official website of [python](https://www.python.org)
+
+## screen shot ![My screenshot](pandas_install.png "Pandas installation")
+
+## meme ![best meme](meme.jpg "meme")
